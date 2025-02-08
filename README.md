@@ -1,25 +1,25 @@
 # Atliq_Sales_Analysis_Excel
 ## Sales Report :
-1. Created a customer performance report
+1. Created a customer performance report.
 
-2. Conducted a comprehensive comparison between market performance and sales targets
+2. Conducted a comprehensive comparison between market performance and sales targets.
 
 **Purpose:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-**Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+**Importance:** Identification of sales patterns and tracking key performance indicators (KPIs).
 
 **Role of reports:** Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
 
 ## Finance Report :
-1. Created Profit & Loss report by Fiscal Months
+1. Created Profit & Loss report by Fiscal Months.
 
-2. Created Profit & Loss report by Fiscal Year
+2. Created Profit & Loss report by Fiscal Year.
 
-3. Created Profit & Loss report by Fiscal Markets
+3. Created Profit & Loss report by Fiscal Markets.
 
 **Purpose**: Financial performance evaluation, support decision-making, and facilitate stakeholder communication.
 
-**Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+**Importance:** Aid in benchmarking against industry peers and the previous period's foundation for budgeting and forecasting.
 
 **Role of reports:** Align financial planning with strategic goals
 
