@@ -11,9 +11,11 @@
 **Role of reports:** Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
 
 ## Finance Report :
-1. Created Profit and Loss (P&L) report by Fiscal Months
+1. Created Profit & Loss report by Fiscal Months
 
-2. Created Profit and Loss (P&L) report by Fiscal Year
+2. Created Profit & Loss report by Fiscal Year
+
+3. Created Profit & Loss report by Fiscal Markets
 
 **Purpose**: Financial performance evaluation, support decision-making, and facilitate stakeholder communication.
 
