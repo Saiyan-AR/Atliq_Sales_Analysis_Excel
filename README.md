@@ -13,7 +13,7 @@
 ## Finance Report :
 1. Created Profit & Loss report by Fiscal Months.
 
-2. Created Profit & Loss report by Fiscal Year.
+2. Created Profit & Loss report by Fiscal Years.
 
 3. Created Profit & Loss report by Fiscal Markets.
 
